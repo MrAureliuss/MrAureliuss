@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Aurelius aka Canyoufeelmysuction aka YerevanGhoul
 - 👀 I’m interested in Java, C#, Python, web-automation(like Selenium), Develop game mods, client-server applications, read books on computer architecture and applications.
-- 🧡 Be happy, don't smoke, don't vape. VAPENATION!!!
+- 🧡 Be happy, don't smoke, don't vape. 
 
 <img src="/gifs/VAPENATION.gif" width="885" height="500"/>
 
