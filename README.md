@@ -11,3 +11,5 @@
 - 🧡 Be happy, don't smoke, don't vape. VAPENATION!!!
 
 <img src="/gifs/VAPENATION.gif" width="885" height="500"/>
+
+![Profile views](https://gpvc.arturio.dev/mraureliuss)
