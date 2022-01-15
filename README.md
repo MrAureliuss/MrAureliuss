@@ -2,7 +2,7 @@
 
 
 
-<img src="/gifs/zavaal.gif" width="885" height="500"/>
+<img src="/gifs/nation.gif" width="885" height="500"/>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=mraureliuss&show_icons=true&theme=tokyonight" height="180"/> 
